@@ -16,6 +16,3 @@ function holidayCountdown(holiday, days) {
 }
 
 happyHolidays()
-happyHolidaysTo("Sam")
-happyHolidayTo("4th of July", "Sam")
-holidayCountdown("Christmas", "15")
